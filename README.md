@@ -14,11 +14,14 @@
 
 | 檔案 | 內容 | 授權 |
 |---|---|---|
-| `phrases-taigi.txt` | 台語詞庫（詞＋票數＋方音音節） | **CC BY-SA 4.0**（整體，含台華線頂衍生內容） |
+| `phrases-taigi.txt` | 台語詞庫（詞＋頻次＋方音音節） | **CC BY-SA 4.0**（整體，含台華線頂衍生內容） |
 | `char-taigi.txt` | 單字讀音頻次 | **CC BY-SA 4.0**（同上） |
+| `lexicon-taigi-romanization.txt` | 詞條羅馬字（詞＋方音音節＋臺羅＋白話字）；臺羅為來源辭典**原文逐字保留**，白話字自臺羅轉出 | **CC BY-SA 4.0**（同上） |
 | `emoji-annotations-taigi.txt` | 台語詞 → emoji 對應 | 混合血緣：台語詞取自 iTaigi（**CC0**）、emoji 對應衍生自 [rime-emoji](https://github.com/rime/rime-emoji)（**LGPL-3.0**）；**不含**台華線頂內容，無 BY-SA 約束 |
 
-`LICENSE` 為 CC BY-SA 4.0 全文，適用於 `phrases-taigi.txt` 與 `char-taigi.txt`。再利用這兩檔時請**標示來源**並以**相同授權**釋出你的衍生作品；再利用 emoji 表時請依其血緣分別標示。
+`LICENSE` 為 CC BY-SA 4.0 全文，適用於 `phrases-taigi.txt`、`char-taigi.txt` 與 `lexicon-taigi-romanization.txt`。再利用這三檔時請**標示來源**並以**相同授權**釋出你的衍生作品；再利用 emoji 表時請依其血緣分別標示。
+
+`lexicon-taigi-romanization.txt` 首行為 App 端 mmap 用的 pragma（`# panda-lexicon-v1 romanization`），其後為授權註解，再其後為 tab 分隔資料（按 UTF-8 byte order 排序）。以 `#` 開頭的行皆為註解。
 
 ## 資料來源與各自授權
 
@@ -28,12 +31,14 @@
 | 教育部臺灣台語常用詞辭典（[kemdict-data-ministry-of-education](https://github.com/kemdict/kemdict-data-ministry-of-education) 鏡像） | ~29.5K | CC BY-ND 3.0 TW |
 | 公視台語台《台語新詞辭庫》 | ~2.3K | CC BY 4.0 |
 | **台華線頂對照典（ChhoeTaigi）** | ~65.3K | **CC BY-SA 4.0** |
+| **iCorpus 臺華平行新聞語料庫漢字臺羅版** | 詞頻（真實語料次數，非詞條） | CC BY 4.0 |
 
-\* 通過品質過濾後併入本詞表的條數，隨版本演進。
+\* 通過品質過濾後併入本詞表的條數，隨版本演進。iCorpus 提供的是**詞頻**（非詞條），故無「收錄條數」。
 
 - **台華線頂對照典** © [ChhoeTaigi 找台語](https://github.com/ChhoeTaigi/ChhoeTaigiDatabase)，CC BY-SA 4.0。本詞表含其衍生內容，故整體以 CC BY-SA 4.0 釋出。
 - **教育部辭典**部分依 CC BY-ND 3.0 TW，以「格式轉換（臺羅→方音符號）非改作」立場重製並標示出處。
 - **iTaigi**（CC0）、**公視新詞**（CC BY 4.0）向上相容併入 CC BY-SA。
+- **iCorpus 臺華平行新聞語料庫漢字臺羅版** © 薛丞宏，CC BY 4.0（向上相容併入 CC BY-SA）。提供真實語料**詞頻**（非詞條），為頻次項的 count 來源（見「修改說明」）。
 - 臺羅→方音符號轉換規則移植自 g0v `trs2bpmf`（CC0）。
 
 ## 修改說明
@@ -42,14 +47,17 @@
 
 - **格式轉換**：臺羅拼音 → 方音符號（g0v trs2bpmf 規則的忠實移植）
 - **四源合併去重**：以（詞, 讀音）為鍵
-- **來源票數加權**：原始三源各 2 票、台華線頂 1 票（使台華獨有詞落尾段當 fallback）；票數帶小數 ε 作來源優先度 tie-break（如 `凹 1.01 ㄠ`）
+- **詞頻（Dirichlet 混合偽頻次）**：`頻次 = 票數(prior) + iCorpus 真實語料次數 / μ`（μ=50）。
+  - 票數 prior：原始三源各 2 票、台華線頂 1 票（使台華獨有詞落尾段當 fallback）；帶小數 ε 作來源優先度 tie-break（如 `凹 1.01 ㄠ`）。
+  - iCorpus count：真實新聞語料的（詞, 讀音）出現次數，經臺羅→方音轉換後 join。**未命中語料的詞維持票數 prior 原值**（零證據詞排序不變）；c=1 單次觀測不翻越票數層（μ 護欄）。
+- **單字頻次（char 層 standalone 注入）**：`頻次 = 來源覆蓋數(prior) + round(iCorpus 獨立單字詞次數 / 5)`。只計語料中**單獨成詞**的出現（複合詞構成字不灌入）；整數量化下微量觀測（c≤2）歸零；含少量新聞語體排除項（translationese，如被動句「被」）。
 - **品質過濾**：剔除整句/諺語（≥7 漢字）、漢羅混寫、非法音節
 
 ## 檔案格式
 
 | 檔案 | 格式 |
 |---|---|
-| `phrases-taigi.txt` | 每行 `詞 票數 方音音節…`（空白分隔） |
+| `phrases-taigi.txt` | 每行 `詞 頻次 方音音節…`（空白分隔；頻次＝Dirichlet 混合偽頻次） |
 | `char-taigi.txt` | 每行 `字 ⇥ 0 ⇥ 頻 ⇥ 讀音`（tab 分隔） |
 | `emoji-annotations-taigi.txt` | 每行 `台語詞 ⇥ emoji1,emoji2…`（tab 分隔） |
 
