@@ -28744,7 +28744,6 @@
 庇	ㄅㄧ˪	pì	pì
 庇佑	ㄅㄧˋ ㄧㄨ˫	pí-iū	pí-iū
 庇佑	ㄅㄧ˪ ㄧㄨ˫	pì-iū	pì-iū
-庇能	ㄅㄧ˫ ㄋㆤㄧㄥˋ	Pī-néeng	Pī-néeng
 庇蔭	ㄅㄧ˪ ㄧㆬ˪	pì-ìm	pì-ìm
 庇護	ㄅㄧ˪ ㄏㆦ˫	pì-hōo	pì-hō͘
 床	ㄘㆭˊ	tshn̂g	chhn̂g
@@ -42572,7 +42571,6 @@
 木耳	ㆠㆦㆻ̇ ㄇㄧˋ	bo̍k-mí	bo̍k-mí
 木耳	ㆠㆦㆻ̇ ㄋㄧˋ	bo̍k-ní	bo̍k-ní
 木耳	ㆠㆦㆻ̇ ㆢㄧˋ	bo̍k-jí	bo̍k-jí
-木耳樹	ㆠㆦㆻ̇ ㄋㄧˋ ㄗㄨㄧㄨ˫	bo̍k-ní-tsuiū	bo̍k-ní-chūiu
 木船	ㆠㆦㆻ̇ ㄗㄨㄣˊ	bo̍k-tsûn	bo̍k-chûn
 木芙蓉	ㆠㆦㆻ̇ ㄏㄨˊ ㄧㆲˊ	bo̍k-hû-iông	bo̍k-hû-iông
 木蓮	ㆠㆦㆻ̇ ㄌㄧㄢˊ	bo̍k-liân	bo̍k-liân
@@ -44560,7 +44558,6 @@
 椰漿	ㄧㄚˊ ㄐㄧㆫ	iâ-tsiunn	iâ-chiuⁿ
 椰瓢	ㄧㄚˊ ㄆㄧㄜˊ	iâ-phiô	iâ-phiô
 椴梅	ㄉㄨㄢ˪ ㆬˊ	tuàn-m̂	toàn-m̂
-椵梅	ㄧㄨㄢ˫ ㆬˊ	iuān-m̂	ioān-m̂
 椵腳	ㄍㆤˋ ㄎㄚ	ké-kha	ké-kha
 椽筆	ㄧㄢˊ ㄅㄧㆵ	iân-pit	iân-pit
 楊	ㄑㄧㆫˊ	tshiûnn	chhiûⁿ
