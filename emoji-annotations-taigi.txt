@@ -1,3 +1,10 @@
+# emoji-annotations-taigi.txt — 台語詞 → emoji 對應（胖打注音）
+# 血緣與授權（逐源）：
+#   台語詞面：iTaigi 華台對照典（ChhoeTaigi）— CC0
+#   emoji 對應：衍生自 rime-emoji (https://github.com/rime/rime-emoji) — LGPL-3.0
+# 本檔不含台華線頂內容，無 CC BY-SA 約束；再利用請依上列血緣分別標示，
+# 並隨附 LGPL-3.0 授權文本（公開鏡像 LICENSES/ 目錄）。
+# 產出：Scripts/taigi-emoji-overlay/build_overlay.py（人工覆蓋項見 data/）
 一个人	👤️
 一撮仔	🤌🏻
 一等	🏆️,🥇
