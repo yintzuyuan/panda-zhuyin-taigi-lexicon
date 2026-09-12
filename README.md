@@ -4,7 +4,7 @@
 
 本儲存庫是 **胖打注音（Panda Zhuyin）** iOS 注音輸入法的**台語詞庫衍生資料**：約 10.9 萬條（詞, 讀音）帶頻次、1.1 萬條單字讀音頻次、10.4 萬條臺羅／白話字對照，以**方音符號**格式提供，供公開取用、研究與再利用。格式與 [McBopomofo](https://github.com/openvanilla/McBopomofo) 詞庫相容——可直接餵給 McBopomofo／Megrez／[Homa](https://github.com/vChewing/vChewing-LibVanguard) 系組字引擎當語言模型，適合想做台語輸入法（iOS、Android、Rime、PC）的開發者直接取用。
 
-> **授權以「逐檔授權」一節為準**。GitHub 在 repo 層顯示的 CC BY-SA 4.0 標籤是平台單一授權欄位的慣例限制，實際上 `emoji-annotations-taigi.txt` 為 CC0＋LGPL-3.0 混合血緣、無 BY-SA 約束，詳見下表。
+> **授權以「逐檔授權」一節為準**。GitHub 在 repo 層顯示的 CC BY-SA 4.0 標籤是平台單一授權欄位的慣例限制，實際上 `emoji-annotations-taigi.txt` 為 CC0＋CC BY-ND 3.0 TW＋CC BY 4.0＋政府開放宣告＋LGPL-3.0 混合血緣、無 BY-SA 約束，詳見下表。
 
 ## 這份資料能做什麼
 
@@ -42,7 +42,7 @@ for line in open("phrases-taigi.txt", encoding="utf-8"):
 | `phrases-taigi.txt` | 台語詞庫（詞＋頻次＋方音音節） | **CC BY-SA 4.0**（整體，含台華線頂衍生內容） |
 | `char-taigi.txt` | 單字讀音頻次 | **CC BY-SA 4.0**（同上） |
 | `lexicon-taigi-romanization.txt` | 詞條羅馬字（詞＋方音音節＋臺羅＋白話字）；臺羅為來源辭典**原文逐字保留**，白話字自臺羅轉出 | **CC BY-SA 4.0**（同上） |
-| `emoji-annotations-taigi.txt` | 台語詞 → emoji 對應 | 混合血緣：台語詞取自 iTaigi（**CC0**）、emoji 對應衍生自 [rime-emoji](https://github.com/rime/rime-emoji)（**LGPL-3.0**，全文見 `LICENSES/`）；**不含**台華線頂內容，無 BY-SA 約束 |
+| `emoji-annotations-taigi.txt` | 台語詞 → emoji 對應 | 混合血緣：台語詞取自 iTaigi（**CC0**）、教育部臺灣台語常用詞辭典（**CC BY-ND 3.0 TW**）、公視台語台《台語新詞辭庫》（**CC BY 4.0**）、教育部學科術語對譯查詢（**政府網站資料開放宣告**，CC BY 等價）；emoji 對應衍生自 [rime-emoji](https://github.com/rime/rime-emoji)（**LGPL-3.0**，全文見 `LICENSES/`）；**不含**台華線頂／植物名彙內容，無 BY-SA 約束 |
 
 `LICENSE` 為 CC BY-SA 4.0 全文，適用於 `phrases-taigi.txt`、`char-taigi.txt` 與 `lexicon-taigi-romanization.txt`。再利用這三檔時請**標示來源**並以**相同授權**釋出你的衍生作品；再利用 emoji 表時請依其血緣分別標示並隨附 `LICENSES/LGPL-3.0.txt`。
 

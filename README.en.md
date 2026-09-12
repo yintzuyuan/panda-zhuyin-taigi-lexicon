@@ -2,7 +2,7 @@
 
 Derived lexicon data from **Panda Zhuyin**, an iOS bopomofo keyboard: ~109K (word, reading) entries with frequencies, ~11K single-character reading frequencies, and ~104K Tâi-lô / Pe̍h-ōe-jī romanization mappings, all in **Taiwanese Phonetic Symbols** (方音符號, the extended bopomofo used for Taiwanese Hokkien). The format is [McBopomofo](https://github.com/openvanilla/McBopomofo)-compatible — it can be fed directly into McBopomofo / Megrez / [Homa](https://github.com/vChewing/vChewing-LibVanguard)-family composers as a language model. If you are building a Taigi input method (Android, iOS, Rime, desktop), this data is ready to use.
 
-> **Licensing is per-file** — see the table below. GitHub's repo-level CC BY-SA 4.0 badge is a single-field platform convention; `emoji-annotations-taigi.txt` is actually CC0 + LGPL-3.0 lineage with no BY-SA obligation.
+> **Licensing is per-file** — see the table below. GitHub's repo-level CC BY-SA 4.0 badge is a single-field platform convention; `emoji-annotations-taigi.txt` is actually CC0 + CC BY-ND 3.0 TW + CC BY 4.0 + government open-data declaration + LGPL-3.0 lineage, with no BY-SA obligation.
 
 ## Files & licenses
 
@@ -11,7 +11,7 @@ Derived lexicon data from **Panda Zhuyin**, an iOS bopomofo keyboard: ~109K (wor
 | `phrases-taigi.txt` | Lexicon: `word freq syllable…` (space-separated) | **CC BY-SA 4.0** |
 | `char-taigi.txt` | Single-character readings: `char ⇥ 0 ⇥ freq ⇥ reading` (the constant `0` is a McBopomofo placeholder column) | **CC BY-SA 4.0** |
 | `lexicon-taigi-romanization.txt` | `word ⇥ phonetic ⇥ Tâi-lô ⇥ POJ` | **CC BY-SA 4.0** |
-| `emoji-annotations-taigi.txt` | Taigi word → emoji | Mixed: words from iTaigi (**CC0**), emoji mapping derived from [rime-emoji](https://github.com/rime/rime-emoji) (**LGPL-3.0**, full text in `LICENSES/`) |
+| `emoji-annotations-taigi.txt` | Taigi word → emoji | Mixed: words from iTaigi (**CC0**), MOE Dictionary of Taiwanese Taigi (**CC BY-ND 3.0 TW**), PTS Taigi TV new-word glossary (**CC BY 4.0**) and MOE academic-term translation lookup (**government open-data declaration**, CC BY equivalent); emoji mapping derived from [rime-emoji](https://github.com/rime/rime-emoji) (**LGPL-3.0**, full text in `LICENSES/`); contains **no** Taihoa Soannteng / plant-name-list content, no BY-SA obligation |
 
 Lines starting with `#` are comments. Reusing the three BY-SA files requires **attribution** and releasing your derivative lexicon under the **same license** (doing what this repo does is sufficient). A copy-paste attribution template is in the Chinese README (再利用標示範本).
 
