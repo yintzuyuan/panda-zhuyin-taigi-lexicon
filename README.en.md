@@ -34,7 +34,7 @@ The `-k` coda always uses **ㆻ** (U+31BB). Nasalized and voiced symbols use the
 
 ## Sources
 
-Merged from seven sources — ChhoeTaigi 台華線頂對照典 & 台灣植物名彙 1928 (CC BY-SA 4.0), [iTaigi](https://itaigi.tw/) (CC0), [MoE Taiwanese dictionary](https://sutian.moe.edu.tw/) (CC BY-ND 3.0 TW, verbatim reproduction), PTS Taigi neologisms (CC BY 4.0), MoE academic terminology (Taiwan OGDL, CC BY-equivalent), with real-corpus frequencies from [iCorpus](https://github.com/Taiwanese-Corpus/icorpus_ke5_han3-ji7) © Sih Sing-hông (CC BY 4.0). Full per-source details, frequency formula, and modification statement: see [README.md](./README.md) (Chinese).
+Merged from eight sources — ChhoeTaigi 台華線頂對照典 & 台灣植物名彙 1928 (CC BY-SA 4.0), [iTaigi](https://itaigi.tw/) (CC0), Taigi place names compiled from Wikidata by Supaplextw ([moztw/cc0-sentences](https://github.com/moztw/cc0-sentences), CC0), [MoE Taiwanese dictionary](https://sutian.moe.edu.tw/) (CC BY-ND 3.0 TW, verbatim reproduction), PTS Taigi neologisms (CC BY 4.0), MoE academic terminology (Taiwan OGDL, CC BY-equivalent), with real-corpus frequencies from [iCorpus](https://github.com/Taiwanese-Corpus/icorpus_ke5_han3-ji7) © Sih Sing-hông (CC BY 4.0). Full per-source details, frequency formula, and modification statement: see [README.md](./README.md) (Chinese).
 
 ## Versioning & feedback
 

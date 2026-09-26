@@ -88,6 +88,7 @@ for line in open("phrases-taigi.txt", encoding="utf-8"):
 | **[台華線頂對照典](https://github.com/ChhoeTaigi/ChhoeTaigiDatabase)（ChhoeTaigi）** | ~65.3K | **[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)** |
 | **台灣植物名彙 1928（佐佐木舜一，[ChhoeTaigi](https://github.com/ChhoeTaigi/ChhoeTaigiDatabase)）** | ~0.7K（植物名） | **CC BY-SA 4.0** |
 | [教育部學科術語臺灣台語／臺灣客語對譯查詢](https://sthj.moe.edu.tw/) | ~2.7K（學科術語，淨新增） | [政府網站資料開放宣告](https://data.gov.tw/license)（CC BY 等價） |
+| 台語地名（Supaplextw 整理自 Wikidata，[moztw/cc0-sentences](https://github.com/moztw/cc0-sentences) 鏡像） | ~1.4K（地名，淨新增） | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) |
 | **[iCorpus 臺華平行新聞語料庫漢字臺羅版](https://github.com/Taiwanese-Corpus/icorpus_ke5_han3-ji7)** | 詞頻（真實語料次數，非詞條） | CC BY 4.0 |
 
 \* 通過品質過濾後併入本詞表的條數，隨版本演進。iCorpus 提供的是**詞頻**（非詞條），故無「收錄條數」。
@@ -95,7 +96,7 @@ for line in open("phrases-taigi.txt", encoding="utf-8"):
 - **台華線頂對照典** © [ChhoeTaigi 找台語](https://github.com/ChhoeTaigi/ChhoeTaigiDatabase)，CC BY-SA 4.0。本詞表含其衍生內容，故整體以 CC BY-SA 4.0 釋出。
 - **台灣植物名彙 1928**（佐佐木舜一）© ChhoeTaigi，CC BY-SA 4.0。本詞表含其植物名衍生內容，同以 CC BY-SA 4.0 釋出。
 - **教育部辭典**部分依 CC BY-ND 3.0 TW 重製並標示出處。臺羅→方音符號為規則驅動的機械式標音系統轉換，無創作性投入，屬**重製**而非改作；CC BY-ND 3.0 TW 第 3 條明文授權重製、散布與公開傳輸，且不限商業用途。
-- **iTaigi**（CC0）、**公視新詞**（CC BY 4.0）向上相容併入 CC BY-SA。
+- **iTaigi**（CC0）、**台語地名**（Supaplextw 整理自 Wikidata，CC0）、**公視新詞**（CC BY 4.0）向上相容併入 CC BY-SA。
 - **教育部學科術語對譯**依政府網站資料開放宣告釋出（無償、得再授權、可改作、可商用，須註明出處＝CC BY 等價），向上相容併入 CC BY-SA。
 - **iCorpus 臺華平行新聞語料庫漢字臺羅版** © 薛丞宏，CC BY 4.0（向上相容併入 CC BY-SA）。提供真實語料**詞頻**（非詞條），為頻次項的 count 來源（見「修改說明」）。
 - 臺羅→方音符號轉換規則移植自 g0v [`trs2bpmf`](https://github.com/g0v/moedict-process)（CC0）。
@@ -106,7 +107,7 @@ for line in open("phrases-taigi.txt", encoding="utf-8"):
 
 > 台語詞庫衍生自「胖打注音台語衍生詞表」（<https://github.com/yintzuyuan/panda-zhuyin-taigi-lexicon>，CC BY-SA 4.0），
 > 其上游來源含：台華線頂對照典・台灣植物名彙 1928 © ChhoeTaigi（CC BY-SA 4.0）、
-> iTaigi 華台對照典（CC0）、教育部臺灣台語常用詞辭典（CC BY-ND 3.0 TW，重製）、
+> iTaigi 華台對照典（CC0）、台語地名（Supaplextw 整理自 Wikidata，CC0）、教育部臺灣台語常用詞辭典（CC BY-ND 3.0 TW，重製）、
 > 公視台語台《台語新詞辭庫》（CC BY 4.0）、教育部學科術語對譯（政府資料開放宣告）、
 > iCorpus 臺華平行新聞語料庫 © 薛丞宏（CC BY 4.0，詞頻）。
 > 本專案對上述資料所做修改：〔寫下你的修改，例如「重排頻次／轉換格式」〕。
@@ -117,7 +118,7 @@ for line in open("phrases-taigi.txt", encoding="utf-8"):
 （依 CC BY-SA 4.0 §3(a)(1)(B) 標示已對原始素材所做之修改）
 
 - **格式轉換**：臺羅拼音 → 方音符號（g0v trs2bpmf 規則的忠實移植）
-- **多源合併去重**（上表七源）：以（詞, 讀音）為鍵
+- **多源合併去重**（上表八源）：以（詞, 讀音）為鍵
 - **詞頻（Dirichlet 混合偽頻次）**：`頻次 = 票數(prior) + iCorpus 真實語料次數 / μ`（μ=50）。
   - 票數 prior：原始三源各 2 票、台華線頂與台灣植物名彙各 1 票（fallback 源，獨有詞落尾段、不搶常用詞首位）；帶小數 ε 作來源優先度 tie-break（如 `凹 1.01 ㄠ`）。
   - iCorpus count：真實新聞語料的（詞, 讀音）出現次數，經臺羅→方音轉換後 join。**未命中語料的詞維持票數 prior 原值**（零證據詞排序不變）；c=1 單次觀測不翻越票數層（μ 護欄）。

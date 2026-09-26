@@ -6,6 +6,7 @@
 #   台華線頂對照典（ChhoeTaigi）— CC BY-SA 4.0（衍生詞表須同授權釋出）
 #   台灣植物名彙 1928（佐佐木舜一，ChhoeTaigi）— CC BY-SA 4.0（衍生詞表須同授權釋出）
 #   教育部學科術語臺灣台語／臺灣客語對譯查詢 — 政府網站資料開放宣告（CC BY 等價，須註明出處）
+#   台語地名（Supaplextw 整理自 Wikidata，moztw/cc0-sentences 鏡像）— CC0
 #   iCorpus 臺華平行新聞語料庫漢字臺羅版（薛丞宏）— CC BY 4.0（#981 詞頻 count 源）
 㔂	0	3	ㄌㄢˊ
 㝗	0	1	ㄌㄤˋ
