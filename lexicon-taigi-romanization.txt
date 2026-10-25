@@ -834,7 +834,7 @@
 七也八也	ㄑㄧㆵ ㄚ˫ ㄅㆤㆷ ㄚ˫	tshit ā peh ā	chhit ā peh ā
 七仔	ㄑㄧㆵ ㄚˋ	tshit-á	chhit-á
 七仔科	ㄑㄧㆵ ㄚˋ ㄎㄨㆤ	tshit-á-khue	chhit-á-khoe
-七仔笑八仔	ㄑㄧㆵ ㄚ˙ ㄑㄧㄛ˙ ㄅㆤㆷ̇ ㄚ˙	tshit--á tshiò peh--á	chhit--á chhiò peh--á
+七仔笑八仔	ㄑㄧㆵ ㄚ˙ ㄑㄧㄛ˪ ㄅㆤㆷ ㄚ˙	tshit--á tshiò peh--á	chhit--á chhiò peh--á
 七仔詼	ㄑㄧㆵ ㄚˋ ㄎㄨㆤ	tshit-á-khue	chhit-á-khoe
 七創八創	ㄑㄧㆵ ㄘㆲ˪ ㄅㆤㆷ ㄘㆲ˪	tshit-tshòng-peh-tshòng	chhit-chhòng-peh-chhòng
 七匼八笑	ㄑㄧㆵ ㄎㄚㆴ ㄅㆤㆷ ㄑㄧㄛ˪	tshit-khap-peh-tshiò	chhit-khap-peh-chhiò
@@ -1186,7 +1186,7 @@
 三會跤	ㄙㆩ ㄏㄨㆤ˫ ㄎㄚ	Sann-huē-kha	Saⁿ-hōe-kha
 三月	ㄙㆩ ㆣㄨㆤㆷ̇	sann--gue̍h	saⁿ--goe̍h
 三月	ㄙㆩ ㆣㆤㆷ̇	sann--ge̍h	saⁿ--ge̍h
-三月痟媽祖	ㄙㆩ ㆣㄨㆤㆷ̇ ㄒㄧㄠ˙ ㄇㄚ˙ ㄗㆦ˙	sann--gue̍h siáu Má-tsóo	saⁿ--goe̍h siáu Má-chó͘
+三月痟媽祖	ㄙㆩ ㆣㄨㆤㆷ̇ ㄒㄧㄠˋ ㄇㄚˋ ㄗㆦˋ	sann--gue̍h siáu Má-tsóo	saⁿ--goe̍h siáu Má-chó͘
 三月節	ㄙㆩ ㆣㄜㆷ̇ ㄗㄨㆤㆷ	sann-ge̍rh-tsueh	saⁿ-ge̍rh-choeh
 三月節	ㄙㆩ ㆣㄨㆤㆷ̇ ㄗㆤㆷ	sann-gue̍h tseh	saⁿ-goe̍h cheh
 三月節	ㄙㆩ ㆣㆤㆷ̇ ㄗㄨㆤㆷ	sann-ge̍h-tsueh	saⁿ-ge̍h-choeh
@@ -3062,9 +3062,8 @@
 九月	ㄍㄠˋ ㆣㆤㆷ̇	káu--ge̍h	káu--ge̍h
 九月重陽	ㄍㄠˋ ㆣㄜ˫ ㄉㄧㆲˊ ㄧㆲˊ	Káu-gēr Tiông-iông	Káu-gēr Tiông-iông
 九月重陽	ㄍㄠˋ ㆣㄨㆤㆷ̇ ㄉㄧㆲˊ ㄧㄤˊ	káu-gue̍h-tiông-iâng	káu-goe̍h-tiông-iâng
-九月重陽	ㄍㄠˋ ㆣㄨㆤㆷ̇ ㄉㄧㆲˊ ㄧㆲˊ	Káu-gue̍h Tiông-iông	Káu-goe̍h Tiông-iông
-九月重陽	ㄍㄠˋ ㆣㄨㆤㆷ̇ ㄉㄧㆲ˙ ㄧㆲ˙	Káu--gue̍h Tiông-iông	Káu--goe̍h Tiông-iông
-九月重陽	ㄍㄠˋ ㆣㆤㆷ̇ ㄉㄧㆲ˙ ㄧㆲ˙	Káu--ge̍h Tiông-iông	Káu--ge̍h Tiông-iông
+九月重陽	ㄍㄠˋ ㆣㄨㆤㆷ̇ ㄉㄧㆲˊ ㄧㆲˊ	Káu--gue̍h Tiông-iông	Káu--goe̍h Tiông-iông
+九月重陽	ㄍㄠˋ ㆣㆤㆷ̇ ㄉㄧㆲˊ ㄧㆲˊ	Káu--ge̍h Tiông-iông	Káu--ge̍h Tiông-iông
 九槽	ㄍㄠˋ ㄗㄛˊ	káu-tsô	káu-chô
 九欑頭	ㄍㄠˋ ㄗㄢ˪ ㄊㄠˊ	Káu-tsàn-thâu	Káu-chàn-thâu
 九歸	ㄍㄧㄨˋ ㄍㄨㄧ	kiú-kui	kiú-kui
@@ -5881,7 +5880,7 @@
 來的人	ㄌㄞˊ ㆤ˙ ㄌㄤ˙	lâi--ê-lâng	lâi--ê-lâng
 來社	ㄌㄞˊ ㄒㄧㄚ˫	Lâi-siā	Lâi-siā
 來義鄉	ㄌㄞˊ ㆣㄧ˫ ㄏㄧㆲ	Lâi-gī-hiong	Lâi-gī-hiong
-來者是客	ㄌㄞˊ ㄐㄧㄚ˙ ㄒㄧ˙ ㄎㆤㆷ̇	lâi--tsiá sī kheh	lâi--chiá sī kheh
+來者是客	ㄌㄞˊ ㄐㄧㄚ˙ ㄒㄧ˫ ㄎㆤㆷ	lâi--tsiá sī kheh	lâi--chiá sī kheh
 來臨	ㄌㄞˊ ㄌㄧㆬˊ	lâi-lîm	lâi-lîm
 來自	ㄌㄞˊ ㄗㄨ˫	lâi-tsū	lâi-chū
 來訪	ㄌㄞˊ ㄏㆲˋ	lâi-hóng	lâi-hóng
@@ -6530,7 +6529,7 @@
 倒向天	ㄉㄛ˪ ㄏㄧㄤ˪ ㄊㄧㄢ	tò-hiàng-thian	tò-hiàng-thian
 倒咧	ㄉㄛ˪ ㄌㆤㆷ̇	tò--leh	tò--leh
 倒咧予你拖	ㄉㄛˋ ㄌㆤㆷ ㄏㆦ˫ ㄌㄧˋ ㄊㄨㄚ	tó leh hōo lí thua	tó leh hō͘ lí thoa
-倒咧嘛著銃	ㄉㄛˋ ㄌㆤㆷ̇ ㄇㄚ˙ ㄉㄧㄛㆷ̇ ㄑㄧㄥ˙	tó--leh mā tio̍h-tshìng	tó--leh mā tio̍h-chhèng
+倒咧嘛著銃	ㄉㄛˋ ㄌㆤㆷ̇ ㄇㄚ˫ ㄉㄧㄛㆷ̇ ㄑㄧㄥ˪	tó--leh mā tio̍h-tshìng	tó--leh mā tio̍h-chhèng
 倒咬	ㄉㄛ˪ ㄍㄚ˫	tò-kā	tò-kā
 倒咬人	ㄉㄛ˪ ㄍㄚ˫ ㄌㄤˊ	tò-kā-lâng	tò-kā-lâng
 倒咬狗	ㄉㄛ˪ ㄍㄚ˫ ㄍㄠˋ	tò-kā-káu	tò-kā-káu
@@ -7249,7 +7248,7 @@
 做代	ㄗㄨㆤ˪ ㄉㄞ˫	tsuè-tāi	chòe-tāi
 做代誌	ㄗㄛ˪ ㄉㄞ˫ ㄐㄧ˪	tsò-tāi-tsì	chò-tāi-chì
 做代誌	ㄗㄨㆤ˪ ㄉㄞ˫ ㄐㄧ˪	tsuè-tāi-tsì	chòe-tāi-chì
-做代誌的板路	ㄗㄛ˪ ㄉㄞ˫ ㄐㄧ˪ ㆤ˙ ㄅㄢ˙ ㄌㆦ˙	tsò tāi-tsì--ê pán-lōo	chò tāi-chì--ê pán-lō͘
+做代誌的板路	ㄗㄛ˪ ㄉㄞ˫ ㄐㄧ˪ ㆤ˙ ㄅㄢˋ ㄌㆦ˫	tsò tāi-tsì--ê pán-lōo	chò tāi-chì--ê pán-lō͘
 做件	ㄗㄛ˪ ㄍㄧㆩ˫	tsò-kiānn	chò-kiāⁿ
 做件	ㄗㄨㆤ˪ ㄍㄧㆩ˫	tsuè-kiānn	chòe-kiāⁿ
 做件個	ㄗㄛ˪ ㄍㄧㆩ˫ ㆤˊ	tsò-kiānn-ê	chò-kiāⁿ-ê
@@ -8521,7 +8520,7 @@
 允人	ㄧㄣˋ ㄌㄤ˙	ín--lâng	ín--lâng
 允人	ㄨㄣˋ ㄌㄤˊ	ún-lâng	ún-lâng
 允人	ㄨㄣˋ ㄌㄤ˙	ún--lâng	ún--lâng
-允人矣	ㄧㄣˋ ㄌㄤ˙ ㄚㆷ̇	ín--lâng ah	ín--lâng ah
+允人矣	ㄧㄣˋ ㄌㄤ˙ ㄚㆷ̇	ín--lâng--ah	ín--lâng--ah
 允人較慘欠人	ㄧㄣˋ ㄌㄤˊ ㄎㄚㆷ ㄘㆰˋ ㄎㄧㆰ˪ ㄌㄤˊ	ín-lâng khah-tshám khiàm-lâng	ín-lâng khah-chhám khiàm-lâng
 允准	ㄧㄣˋ ㄗㄨㄣˋ	ín-tsún	ín-chún
 允准	ㄨㄣˋ ㄗㄨㄣˋ	ún-tsún	ún-chún
@@ -10824,7 +10823,7 @@
 出世年月	ㄘㄨㆵ ㄒㄧ˪ ㄋㄧˊ ㆣㄨㆤㆷ̇	tshut-sì-nî-gue̍h	chhut-sì-nî-goe̍h
 出世年月	ㄘㄨㆵ ㄒㄧ˪ ㄋㄧˊ ㆣㆤㆷ̇	tshut-sì-nî-ge̍h	chhut-sì-nî-ge̍h
 出世的所在	ㄘㄨㆵ ㄒㄧ˪ ㆤˊ ㄙㆦˋ ㄗㄞ˫	tshut-sì ê sóo-tsāi	chhut-sì ê só͘-chāi
-出世的所在	ㄘㄨㆵ ㄒㄧ˪ ㆤ˙ ㄙㆦ˙ ㄗㄞ˙	tshut-sì--ê sóo-tsāi	chhut-sì--ê só͘-chāi
+出世的所在	ㄘㄨㆵ ㄒㄧ˪ ㆤ˙ ㄙㆦˋ ㄗㄞ˫	tshut-sì--ê sóo-tsāi	chhut-sì--ê só͘-chāi
 出主意	ㄘㄨㆵ ㄗㄨˋ ㄧ˪	tshut-tsú-ì	chhut-chú-ì
 出事	ㄘㄨㆵ ㄙㄨ˫	tshut-sū	chhut-sū
 出事志	ㄘㄨㆵ ㄉㄞ˫ ㄐㄧ˪	tshut-tāi-tsì	chhut-tāi-chì
@@ -11287,7 +11286,7 @@
 分發	ㄏㄨㄣ ㄏㄨㄚㆵ	hun-huat	hun-hoat
 分的	ㄅㄨㄣ ㆤˊ	pun-ê	pun-ê
 分的	ㄅㄨㄣ ㆤ˙	pun--ê	pun--ê
-分的較贏買的	ㄅㄨㄣ ㆤ˙ ㄎㄚㆷ̇ ㄧㆩ˙ ㆠㆤ˙ ㆤ˙	pun--ê khah iânn bé--ê	pun--ê khah iâⁿ bé--ê
+分的較贏買的	ㄅㄨㄣ ㆤ˙ ㄎㄚㆷ ㄧㆩˊ ㆠㆤˋ ㆤ˙	pun--ê khah iânn bé--ê	pun--ê khah iâⁿ bé--ê
 分神	ㄏㄨㄣ ㄒㄧㄣˊ	hun-sîn	hun-sîn
 分租	ㄏㄨㄣ ㄗㆦ	hun-tsoo	hun-cho͘
 分立	ㄏㄨㄣ ㄌㄧㆴ̇	hun-li̍p	hun-li̍p
@@ -14522,7 +14521,7 @@
 厝蓋	ㄘㄨ˪ ㄍㄨㄚ˪	tshù-kuà	chhù-kòa
 厝裡	ㄘㄨ˪ ㄋㄧㆷ̇	tshù--nih	chhù--nih
 厝裡	ㄘㄨ˪ ㄌㄧ˙	tshù--lí	chhù--lí
-厝裡的人	ㄘㄨ˪ ㄌㄧ˙ ㆤ˙ ㄌㄤ˙	tshù--lí ê lâng	chhù--lí ê lâng
+厝裡的人	ㄘㄨ˪ ㄌㄧ˙ ㆤˊ ㄌㄤˊ	tshù--lí ê lâng	chhù--lí ê lâng
 厝角	ㄘㄨ˪ ㄍㄚㆻ	tshù-kak	chhù-kak
 厝角頭	ㄘㄨ˪ ㄍㄚㆻ ㄊㄠˊ	tshù-kak-thâu	chhù-kak-thâu
 厝角鳥	ㄘㄨ˪ ㄍㄚㆻ ㄐㄧㄠˋ	tshù-kak-tsiáu	chhù-kak-chiáu
@@ -23469,7 +23468,7 @@
 天地會	ㄊㆪ ㄉㆤ˫ ㄏㄨㆤ˫	Thinn-tē-huē	Thiⁿ-tē-hōe
 天地炮	ㄊㄧㄢ ㄉㄨㆤ˫ ㄆㄠ˪	thian-tuē-phàu	thian-tōe-phàu
 天地炮	ㄊㄧㄢ ㄉㆤ˫ ㄆㄠ˪	thian-tē-phàu	thian-tē-phàu
-天地無餓死人	ㄊㆪ ㄉㆤ˫ ㆠㄛˊ ㆣㄛ˫ ㄒㄧ˙ ㄌㄤ˙	thinn-tē bô gō--sí lâng	thiⁿ-tē bô gō--sí lâng
+天地無餓死人	ㄊㆪ ㄉㆤ˫ ㆠㄛˊ ㆣㄛ˫ ㄒㄧ˙ ㄌㄤˊ	thinn-tē bô gō--sí lâng	thiⁿ-tē bô gō--sí lâng
 天地良心	ㄊㄧㄢ ㄉㄨㆤ˫ ㄌㄧㆲˊ ㄒㄧㆬ	thian-tuē-liông-sim	thian-tōe-liông-sim
 天地良心	ㄊㄧㄢ ㄉㆤ˫ ㄌㄧㄤˊ ㄒㄧㆬ	thian-tē-liâng-sim	thian-tē-liâng-sim
 天地行災	ㄊㄧㄢ ㄉㆤ˫ ㄏㄧㄥˊ ㄗㄞ	thian-tē hîng-tsai	thian-tē hêng-chai
@@ -26521,7 +26520,7 @@
 宙	ㄉㄧㄨ˫	tiū	tiū
 定	ㄉㄧㄥ˫	tīng	tēng
 定	ㄉㄧㆩ˫	tiānn	tiāⁿ
-定人去矣	ㄉㄧㆩ˫ ㄌㄤ˙ ㄎㄧ˙ ㄚㆷ̇	tiānn--lâng khì--ah	tiāⁿ--lâng khì--ah
+定人去矣	ㄉㄧㆩ˫ ㄌㄤ˙ ㄎㄧ˪ ㄚㆷ̇	tiānn--lâng khì--ah	tiāⁿ--lâng khì--ah
 定人矣	ㄉㄧㆩ˫ ㄌㄤ˙ ㄚㆷ̇	tiānn--lâng-ah	tiāⁿ--lâng-ah
 定位	ㄉㄧㄥ˫ ㄨㄧ˫	tīng-uī	tēng-ūi
 定位枋	ㄉㄧㄥ˫ ㄨㄧ˫ ㄅㄤ	tīng-uī-pang	tēng-ūi-pang
@@ -27095,7 +27094,7 @@
 寒	ㆣㄢˊ	gân	gân
 寒人	ㄍㄨㆩˊ ㄌㄤˊ	kuânn-lâng	kôaⁿ-lâng
 寒人	ㄍㄨㆩˊ ㄌㄤ˙	kuânn--lâng	kôaⁿ--lâng
-寒人个時	ㄍㄨㆩˊ ㄌㄤ˙ ㆤ˙ ㄒㄧ˙	kuânn--lâng-ê sî	kôaⁿ--lâng-ê sî
+寒人个時	ㄍㄨㆩˊ ㄌㄤ˙ ㆤ˙ ㄒㄧˊ	kuânn--lâng-ê sî	kôaⁿ--lâng-ê sî
 寒假	ㄏㄢˊ ㄍㄚˋ	hân-ká	hân-ká
 寒假	ㄏㄢˊ ㄍㄚ˪	hân-kà	hân-kà
 寒儂	ㄍㄨㆩˊ ㄌㄤ˙	kuânn--lâng	kôaⁿ--lâng
@@ -34167,7 +34166,6 @@
 愛臺語	ㄞ˪ ㄉㄞˊ ㆣㄧˋ	ài Tâi-gí	ài Tâi-gí
 愛著	ㄞ˪ ㄉㄧㄛㆷ̇	ài-tio̍h	ài-tio̍h
 愛著較慘死	ㄞ˪ ㄉㄧㄛㆷ̇ ㄎㄚㆷ ㄘㆰˋ ㄒㄧˋ	ài-tio̍h khah tshám sí	ài-tio̍h khah chhám sí
-愛著較慘死	ㄞ˪ ㄉㄧㄛㆷ̇ ㄎㄚㆷ̇ ㄘㆰ˙ ㄒㄧ˙	ài--tio̍h khah tshám sí	ài--tio̍h khah chhám sí
 愛諍	ㄞ˪ ㄐㆪ˪	ài-tsìnn	ài-chìⁿ
 愛諍	ㄞ˪ ㄗㆥ˪	ài-tsènn	ài-chèⁿ
 愛講話	ㄞ˪ ㄍㆲˋ ㄨㆤ˫	ài-kóng-uē	ài-kóng-ōe
@@ -36871,7 +36869,7 @@
 拍人	ㄆㄚㆷ ㄌㄤˊ	phah lâng	phah lâng
 拍人無心適	ㄆㄚㆷ ㄌㄤˊ ㆠㄛˊ ㄒㄧㆬ ㄒㄧㆻ	phah-lâng bô-sim-sik	phah-lâng bô-sim-sek
 拍人無風神	ㄆㄚㆷ ㄌㄤˊ ㆠㄛˊ ㄏㆲ ㄒㄧㄣˊ	phah-lâng bô-hong-sîn	phah-lâng bô-hong-sîn
-拍人的喝救人	ㄆㄚㆷ ㄌㄤˊ ㆤ˙ ㄏㄨㄚㆷ̇ ㄍㄧㄨ˙ ㄌㄤ˙	phah lâng--ê huah kiù lâng	phah lâng--ê hoah kiù lâng
+拍人的喝救人	ㄆㄚㆷ ㄌㄤˊ ㆤ˙ ㄏㄨㄚㆷ ㄍㄧㄨ˪ ㄌㄤˊ	phah lâng--ê huah kiù lâng	phah lâng--ê hoah kiù lâng
 拍伊無張持	ㄆㄚㆷ ㄧ ㆠㄛˊ ㄉㄧㆫ ㄉㄧˊ	phah-i-bô-tiunn-tî	phah-i-bô-tiuⁿ-tî
 拍來	ㄆㄚㆷ ㄌㄞ˙	phah--lâi	phah--lâi
 拍做	ㄆㄚㆷ ㄗㄛ˪	phah-tsò	phah-chò
@@ -40297,7 +40295,6 @@
 撆褲跤	ㄅㄧㆷ ㄎㆦ˪ ㄎㄚ	pih-khòo-kha	pih-khò͘-kha
 撇	ㄆㄧㄚㆵ	phiat	phiat
 撇仔	ㄆㄧㄚㆵ ㄚˋ	phiat-á	phiat-á
-撇仔	ㄆㄧㄚㆵ̇ ㄚˋ	phia̍t á	phia̍t á
 撇仔餅	ㄆㄧㄚㆵ ㄚˋ ㄅㄧㆩˋ	phiat-á-piáⁿ	phiat-á-piáⁿ
 撇叉	ㄆㄧㄚㆵ ㄘㆤ	phiat-tshe	phiat-chhe
 撇叉	ㄆㄨㄚㆵ ㄘㆤ	phuat-tshe	phoat-chhe
@@ -46439,7 +46436,7 @@
 林業	ㄌㄧㆬˊ ㆣㄧㄚㆴ̇	lîm-gia̍p	lîm-gia̍p
 林榮新光	ㄌㄧㆬˊ ㄧㄥˊ ㄒㄧㄣ ㄍㆲ	Lîm-îng Sin-kong	Lîm-êng Sin-kong
 林檎	ㄌㄧㆬˊ ㄎㄧㆬˊ	lîm-khîm	lîm-khîm
-林氏宗親會	ㄌㄧㆬˊ ㄒㄧ˙ ㄗㆲ˙ ㄑㄧㄣ˙ ㄏㄨㆤ˙	Lîm--sī tsong-tshin-huē	Lîm--sī chong-chhin-hōe
+林氏宗親會	ㄌㄧㆬˊ ㄒㄧ˙ ㄗㆲ ㄑㄧㄣ ㄏㄨㆤ˫	Lîm--sī tsong-tshin-huē	Lîm--sī chong-chhin-hōe
 林濁水	ㄌㄧㆬˊ ㄗㆦㆻ̇ ㄙㄨㄧˋ	Lîm Tso̍k-súi	Lîm Cho̍k-súi
 林爽文	ㄌㄧㆬˊ ㄙㆲˋ ㆠㄨㄣˊ	Lîm Sóng-bûn	Lîm Sóng-bûn
 林爽文事件	ㄌㄧㆬˊ ㄙㆲˋ ㆠㄨㄣˊ ㄙㄨ˫ ㄍㄧㆩ˫	Lîm Sóng-bûn Sū-kiānn	Lîm Sóng-bûn Sū-kiāⁿ
@@ -48602,6 +48599,7 @@
 橐仔店	ㄌㆦㆻ ㄚˋ ㄉㄧㆰ˪	lok-á-tiàm	lok-á-tiàm
 橐仔花	ㄌㄚㆻ ㄚˋ ㄏㄨㆤ	Lak-á-hue	Lak-á-hoe
 橐仔龍	ㄌㄚㆻ ㄚˋ ㄌㄧㆲˊ	Lak-á-liông	Lak-á-liông
+橐個束個	ㄌㆦㆻ ㄍㄛ˙ ㄙㆦㆻ ㄍㄛ˙	lok--kò sok--kò	lok--kò sok--kò
 橐個束個	ㄌㆦㆻ ㄍㄛ˪ ㄙㆦㆻ ㄍㄛ˪	lok kò sok kò	lok kò sok kò
 橐膿	ㄌㄚㆻ ㄌㄤˊ	lak-lâng	lak-lâng
 橐袋仔	ㄌㄚㆻ ㄉㄜ˫ ㄚˋ	lak-tēr-á	lak-tēr-á
@@ -57628,7 +57626,7 @@
 無去	ㆠㄛˊ ㄎㄨ˙	bô--khù	bô--khù
 無去	ㆠㄛˊ ㄎㄨ˪	bô-khù	bô-khù
 無去	ㆠㄛˊ ㄎㆨ˙	bô--khìr	bô--khìr
-無去矣	ㆠㄛˊ ㄎㄧ˙ ㄚㆷ̇	bô--khì ah	bô--khì ah
+無去矣	ㆠㄛˊ ㄎㄧ˙ ㄚㆷ̇	bô--khì--ah	bô--khì--ah
 無及格	ㆠㄛˊ ㄍㄧㆴ̇ ㄍㆤㆷ	bô ki̍p-keh	bô ki̍p-keh
 無叮無噹	ㆠㄛˊ ㄉㄧㄥ ㆠㄛˊ ㄉㄤ	bô-ting-bô-tang	bô-teng-bô-tang
 無可奈何	ㆠㄨˊ ㄎㄛˋ ㄋㄞ˫ ㄏㄛˊ	bû-khó-nāi-hô	bû-khó-nāi-hô
@@ -58038,7 +58036,7 @@
 無相讓	ㆠㄛˊ ㄒㄧㄛ ㄋㄧㄨ˫	bô-sio-niū	bô-sio-niū
 無相輸	ㆠㄛˊ ㄒㄧㄤ ㄙㄨ	bô-siang-su	bô-siang-su
 無相輸	ㆠㄛˊ ㄒㄧㆲ ㄙㄨ	bô-siong-su	bô-siong-su
-無看的好了了	ㆠㄛˊ ㄎㄨㆩ˪ ㆤ˙ ㄏㄛ˙ ㄌㄧㄠ˙ ㄌㄧㄠ˙	bô-khuànn--ê hó-liáu-liáu	bô-khòaⁿ--ê hó-liáu-liáu
+無看的好了了	ㆠㄛˊ ㄎㄨㆩ˪ ㆤ˙ ㄏㄛˋ ㄌㄧㄠˋ ㄌㄧㄠˋ	bô-khuànn--ê hó-liáu-liáu	bô-khòaⁿ--ê hó-liáu-liáu
 無看著	ㆠㄛˊ ㄎㄨㆩ˪ ㄉㄧㄛㆷ̇	bô khuànn--tio̍h	bô khòaⁿ--tio̍h
 無眠	ㆠㄛˊ ㆠㄧㄣˊ	bô-bîn	bô-bîn
 無睏尾	ㆠㄛˊ ㄎㄨㄣ˪ ㆠㄨㆤˋ	bô khùn-bué	bô khùn-bóe
@@ -62628,7 +62626,7 @@
 畢業班	ㄅㄧㆵ ㆣㄧㄚㆴ̇ ㄅㄢ	pit-gia̍p-pan	pit-gia̍p-pan
 畢業生	ㄅㄧㆵ ㆣㄧㄚㆴ̇ ㄒㄧㄥ	pit-gia̍p-sing	pit-gia̍p-seng
 畢業證書	ㄅㄧㆵ ㆣㄧㄚㆴ̇ ㄐㄧㄥ˪ ㄙㄨ	pit-gia̍p-tsìng-su	pit-gia̍p-chèng-su
-畢氏定理	ㄅㄧㆵ ㄒㄧ˙ ㄉㄧㄥ˙ ㄌㄧ˙	Pit--sī tīng-lí	Pit--sī tēng-lí
+畢氏定理	ㄅㄧㆵ ㄒㄧ˙ ㄉㄧㄥ˫ ㄌㄧˋ	Pit--sī tīng-lí	Pit--sī tēng-lí
 畢生	ㄅㄧㆵ ㄒㄧㄥ	pit-sing	pit-seng
 畢竟	ㄅㄧㆵ ㄍㄧㄥ˪	pit-kìng	pit-kèng
 略	ㄌㄧㄚㆻ̇	lia̍k	lia̍k
@@ -65981,7 +65979,7 @@
 真理	ㄐㄧㄣ ㄌㄧˋ	tsin-lí	chin-lí
 真理大學	ㄐㄧㄣ ㄌㄧˋ ㄉㄞ˫ ㄏㄚㆻ̇	Tsin-lí Tāi-ha̍k	Chin-lí Tāi-ha̍k
 真的	ㄐㄧㄣ ㆤ˙	tsin--ê	chin--ê
-真的抑假的	ㄐㄧㄣ ㆤ˙ ㄧㄚㆷ̇ ㄍㆤ˙ ㆤ˙	tsin--ê ia̍h ké--ê	chin--ê ia̍h ké--ê
+真的抑假的	ㄐㄧㄣ ㆤ˙ ㄧㄚㆷ̇ ㄍㆤˋ ㆤ˙	tsin--ê ia̍h ké--ê	chin--ê ia̍h ké--ê
 真相	ㄐㄧㄣ ㄒㄧㆲ˪	tsin-siòng	chin-siòng
 真相大白	ㄐㄧㄣ ㄒㄧㆲ˪ ㄉㄞ˫ ㄅㆤㆷ̇	tsin-siòng-tāi-pe̍h	chin-siòng-tāi-pe̍h
 真真正	ㄐㄧㄣ ㄐㄧㄣ ㄐㄧㆩ˪	tsin-tsin-tsiànn	chin-chin-chiàⁿ
@@ -68163,7 +68161,6 @@
 福肉	ㄏㆦㆻ ㆠㄚㆷ	hok-bah	hok-bah
 福興磅空	ㄏㆦㆻ ㄏㄧㄥ ㄅㆲ˫ ㄎㄤ	Hok-hing-pōng-khang	Hok-heng-pōng-khang
 福興路	ㄏㆦㆻ ㄏㄧㄥ ㄌㆦ˫	Hok-hing-lōo	Hok-heng-lō͘
-福興路口	ㄏㆦㆻ̇ ㄏㄧㄥ ㄌㆦ˫ ㄎㄠˋ	Ho̍k-hing Lōo-kháu	Ho̍k-heng Lō͘-kháu
 福興鄉	ㄏㆦㆻ ㄏㄧㄥ ㄏㄧㆲ	Hok-hing-hiong	Hok-heng-hiong
 福華	ㄏㆦㆻ ㄏㄨㄚˊ	Hok-huâ	Hok-hôa
 福蔭	ㄏㆦㆻ ㄧㆬ˪	hok-ìm	hok-ìm
@@ -73256,7 +73253,7 @@
 總數	ㄗㆲˋ ㄙㆦ˪	tsóng-sòo	chóng-sò͘
 總是	ㄗㆲˋ ㄒㄧ˙	tsóng--sī	chóng--sī
 總是	ㄗㆲˋ ㄒㄧ˫	tsóng-sī	chóng-sī
-總是按呢	ㄗㆲˋ ㄒㄧ˙ ㄢ˙ ㄋㆤ˙	tsóng--sī án-ne	chóng--sī án-ne
+總是按呢	ㄗㆲˋ ㄒㄧ˙ ㄢˋ ㄋㆤ	tsóng--sī án-ne	chóng--sī án-ne
 總書記	ㄗㆲˋ ㄙㄨ ㄍㄧ˪	tsóng-su-kì	chóng-su-kì
 總會	ㄗㆲˋ ㄏㄨㆤ˫	tsóng-huē	chóng-hōe
 總根頭	ㄗㄤˋ ㄍㄨㄣ ㄊㄠˊ	tsáng-kun-thâu	cháng-kun-thâu
@@ -74033,7 +74030,7 @@
 翁某	ㄤ ㆠㆦˋ	ang-bóo	ang-bó͘
 翁某仔	ㄤ ㆠㆦˋ ㄚˋ	ang-bóo-á	ang-bó͘-á
 翁某無好	ㄤ ㆠㆦˋ ㆠㄛˊ ㄏㄛˋ	ang-bóo bô-hó	ang-bó͘ bô-hó
-翁的我愛你	ㄤ ㆤ˙ ㆣㄨㄚ˙ ㄞ˙ ㄌㄧ˙	Ang--ê guá ài--lí	Ang--ê góa ài--lí
+翁的我愛你	ㄤ ㆤ˙ ㆣㄨㄚˋ ㄞ˪ ㄌㄧ˙	Ang--ê guá ài--lí	Ang--ê góa ài--lí
 翁行某綴	ㄤ ㄍㄧㆩˊ ㆠㆦˋ ㄉㄨㆤ˪	ang-kiânn bóo-tuè	ang-kiâⁿ bó͘-tòe
 翅	ㄑㄧ˪	tshì	chhì
 翅仔	ㄒㄧㆵ̇ ㄚˋ	si̍t-á	si̍t-á
@@ -74416,7 +74413,7 @@
 老百姓	ㄌㄠˋ ㄅㆤㆷ ㄒㆪ˪	láu-peh-sìnn	láu-peh-sìⁿ
 老百姓	ㄌㄠˋ ㄅㆤㆷ ㄙㆥ˪	láu-peh-sènn	láu-peh-sèⁿ
 老的	ㄌㄠ˫ ㆤ˙	lāu--ê	lāu--ê
-老的老步定	ㄌㄠ˫ ㆤ˙ ㄌㄠ˙ ㄅㆦ˙ ㄉㄧㆩ˙	lāu--ê lāu-pōo-tiānn	lāu--ê lāu-pō͘-tiāⁿ
+老的老步定	ㄌㄠ˫ ㆤ˙ ㄌㄠ˫ ㄅㆦ˫ ㄉㄧㆩ˫	lāu--ê lāu-pōo-tiānn	lāu--ê lāu-pō͘-tiāⁿ
 老相	ㄌㄠ˫ ㄒㄧㆫ˪	lāu-siùnn	lāu-siùⁿ
 老相	ㄌㄠ˫ ㄒㄧㆲ˪	lāu-siòng	lāu-siòng
 老相知	ㄌㄠˋ ㄒㄧㄤ ㄉㄧ	láu-siang-ti	láu-siang-ti
@@ -74626,7 +74623,7 @@
 耕牛	ㄍㄧㄥ ㆣㄨˊ	king-gû	keng-gû
 耕田	ㄍㄧㄥ ㄉㄧㄢˊ	king-tiân	keng-tiân
 耕者有其田	ㄍㄧㄥ ㄐㄧㄚˋ ㄧㄨˋ ㄍㄧˊ ㄉㄧㄢˊ	King-tsiá iú kî tiân	Keng-chiá iú kî tiân
-耕者有其田	ㄍㄧㄥ ㄐㄧㄚ˙ ㄧㄨ˙ ㄍㄧ˙ ㄉㄧㄢ˙	king--tsiá iú kî tiân	keng--chiá iú kî tiân
+耕者有其田	ㄍㄧㄥ ㄐㄧㄚ˙ ㄧㄨˋ ㄍㄧˊ ㄉㄧㄢˊ	king--tsiá iú kî tiân	keng--chiá iú kî tiân
 耕耘	ㄍㄧㄥ ㄨㄣˊ	king-ûn	keng-ûn
 耕耘機	ㄍㄧㄥ ㄨㄣˊ ㄍㄧ	king-ûn-ki	keng-ûn-ki
 耕莘安康院區	ㄍㄧㄥ ㄒㄧㄣ ㄢ ㄎㆲ ㆪ˫ ㄎㄨ	King-sin An-khong Īnn-khu	Keng-sin An-khong Īⁿ-khu
@@ -79116,7 +79113,7 @@
 莫放袂記	ㄇㄞ˪ ㄅㄤ˪ ㆠㆤ˫ ㄍㄧ˪	mài pàng bē-kì	mài pàng bē-kì
 莫斯科	ㆠㆦㆻ̇ ㄙㄨ ㄎㄛ	Bo̍k-su-kho	Bo̍k-su-kho
 莫東樓	ㄇㄞ˪ ㄉㄤ ㄌㄠˊ	mài-tang-lâu	mài-tang-lâu
-莫氏𠕇度	ㆠㄛㆷ̇ ㄒㄧ˙ ㄉㄧㄥ˙ ㄉㆦ˙	Bo̍h--sī tīng-tōo	Bo̍h--sī tēng-tō͘
+莫氏𠕇度	ㆠㄛㆷ̇ ㄒㄧ˙ ㄉㄧㄥ˫ ㄉㆦ˫	Bo̍h--sī tīng-tōo	Bo̍h--sī tēng-tō͘
 莫理頓	ㆠㄛㆷ̇ ㄌㄧˋ ㄉㆭ˪	Bo̍h-lí-tǹg	Bo̍h-lí-tǹg
 莫用	ㆠㆦㆻ̇ ㄧㄥ˫	bo̍k-īng	bo̍k-ēng
 莫耳	ㆠㆦㆻ̇ ㄋㄧˋ	bo̍k-ní	bo̍k-ní
@@ -85753,7 +85750,7 @@
 讀詩	ㄊㆦㆻ̇ ㄒㄧ	tho̍k-si	tho̍k-si
 讀過	ㄊㄚㆻ̇ ㄍㄨㆤ˪	tha̍k-kuè	tha̍k-kòe
 讀過	ㄊㄚㆻ̇ ㄍㆤ˪	tha̍k-kè	tha̍k-kè
-讀過無回	ㄊㄚㆻ̇ ㄍㄨㆤ˙ ㆠㄛ˙ ㄏㄨㆤ˙	tha̍k--kuè bô huê	tha̍k--kòe bô hôe
+讀過無回	ㄊㄚㆻ̇ ㄍㄨㆤ˙ ㆠㄛˊ ㄏㄨㆤˊ	tha̍k--kuè bô huê	tha̍k--kòe bô hôe
 讀音	ㄊㄚㆻ̇ ㄧㆬ	tha̍k-im	tha̍k-im
 讀音	ㄊㆦㆻ̇ ㄧㆬ	tho̍k-im	tho̍k-im
 變	ㄅㄧㄢ˪	piàn	piàn
@@ -86499,7 +86496,7 @@
 貝多羅	ㄅㄨㆤ˪ ㄉㄛ ㄌㄛˊ	puè-to-lô	pòe-to-lô
 貝多芬	ㄅㄨㆤ˪ ㄉㄛ ㄏㄨㄣ	Puè-to-Hun	Pòe-to-Hun
 貝殼	ㄅㄨㆤ˪ ㄎㄚㆻ	puè-khak	pòe-khak
-貝氏洗喙法	ㄅㄨㆤ˪ ㄒㄧ˙ ㄙㆤ˙ ㄘㄨㄧ˙ ㄏㄨㄚㆵ̇	Puè--sī sé-tshuì-huat	Pòe--sī sé-chhùi-hoat
+貝氏洗喙法	ㄅㄨㆤ˪ ㄒㄧ˙ ㄙㆤˋ ㄘㄨㄧ˪ ㄏㄨㄚㆵ	Puè--sī sé-tshuì-huat	Pòe--sī sé-chhùi-hoat
 貝爾	ㄅㄨㆤ˪ ㄋㄧˋ	Puè-ní	Pòe-ní
 貝類	ㄅㄨㆤ˪ ㄌㄨㄧ˫	puè-luī	pòe-lūi
 貝魯特	ㄅㄨㆤ˪ ㄌㆦˋ ㄉㄧㆻ̇	Puè-lóo-ti̍k	Pòe-ló͘-te̍k
@@ -89937,7 +89934,7 @@
 轉去	ㄉㆭˋ ㄎㄨ˙	tńg--khù	tńg--khù
 轉去	ㄉㆭˋ ㄎㄨ˪	tńg-khù	tńg-khù
 轉去	ㄉㆭˋ ㄎㆨ˙	tńg--khìr	tńg--khìr
-轉去矣	ㄉㄨㆪˋ ㄎㄧ˙ ㄚㆷ̇	tuínn--khì ah	túiⁿ--khì ah
+轉去矣	ㄉㄨㆪˋ ㄎㄧ˙ ㄚㆷ̇	tuínn--khì--ah	túiⁿ--khì--ah
 轉去矣	ㄉㆭˋ ㄎㄧ˙ ㄚㆷ̇	tńg--khì--ah	tńg--khì--ah
 轉去食家己	ㄉㄨㆪˋ ㄎㄧ˪ ㄐㄧㄚㆷ̇ ㄍㄚ ㄉㄧ˫	tuínn khì tsia̍h ka-tī	túiⁿ khì chia̍h ka-tī
 轉去食家己	ㄉㆭˋ ㄎㄧ˪ ㄐㄧㄚㆷ̇ ㄍㄚ ㄍㄧ˫	tńg-khì tsia̍h ka-kī	tńg-khì chia̍h ka-kī
@@ -92711,10 +92708,10 @@
 鄭成功	ㄉㆥ˫ ㄒㄧㄥˊ ㄍㆲ	Tēnn Sîng-kong	Tēⁿ Sêng-kong
 鄭文燦	ㄉㆥ˫ ㆠㄨㄣˊ ㄘㄢ˪	Tēnn Bûn-tshàn	Tēⁿ Bûn-chhàn
 鄭森	ㄉㆥ˫ ㄒㄧㆬ	Tēnn Sim	Tēⁿ Sim
-鄭氏家廟	ㄉㆥ˫ ㄒㄧ˙ ㄍㄚ˙ ㆠㄧㄛ˙	Tēnn--sī Ka-biō	Tēⁿ--sī Ka-biō
-鄭氏時代	ㄉㆥ˫ ㄒㄧ˙ ㄒㄧ˙ ㄉㄞ˙	Tēnn--sī Sî-tāi	Tēⁿ--sī Sî-tāi
-鄭氏時期	ㄉㆥ˫ ㄒㄧ˙ ㄒㄧ˙ ㄍㄧ˙	Tēnn--sī Sî-kî	Tēⁿ--sī Sî-kî
-鄭氏王朝	ㄉㆥ˫ ㄒㄧ˙ ㆲ˙ ㄉㄧㄠ˙	Tēnn--sī Ông-tiâu	Tēⁿ--sī Ông-tiâu
+鄭氏家廟	ㄉㆥ˫ ㄒㄧ˙ ㄍㄚ ㆠㄧㄛ˫	Tēnn--sī Ka-biō	Tēⁿ--sī Ka-biō
+鄭氏時代	ㄉㆥ˫ ㄒㄧ˙ ㄒㄧˊ ㄉㄞ˫	Tēnn--sī Sî-tāi	Tēⁿ--sī Sî-tāi
+鄭氏時期	ㄉㆥ˫ ㄒㄧ˙ ㄒㄧˊ ㄍㄧˊ	Tēnn--sī Sî-kî	Tēⁿ--sī Sî-kî
+鄭氏王朝	ㄉㆥ˫ ㄒㄧ˙ ㆲˊ ㄉㄧㄠˊ	Tēnn--sī Ông-tiâu	Tēⁿ--sī Ông-tiâu
 鄭用錫	ㄉㆪ˫ ㄧㆲ˫ ㄒㄧㆻ	Tīnn Iōng-sik	Tīⁿ Iōng-sek
 鄭經	ㄉㆥ˫ ㄍㄧㄥ	Tēnn King	Tēⁿ Keng
 鄭重	ㄉㄧㄥ˫ ㄉㄧㆲ˫	tīng-tiōng	tēng-tiōng
@@ -99962,7 +99959,8 @@
 頭一鈧	ㄊㄠˊ ㄧㆵ ㄎㆲ˫	thâu-it-khōng	thâu-it-khōng
 頭一鞏	ㄊㄠˊ ㄐㄧㆵ̇ ㄎㆲ˫	thâu-tsi̍t-khōng	thâu-chi̍t-khōng
 頭七	ㄊㄠˊ ㄑㄧㆵ	thâu-tshit	thâu-chhit
-頭三个法人	ㄊㄠˊ ㄙㆩ ㆤ˙ ㄏㄨㄚㆵ̇ ㆢㄧㄣ˙	thâu-sann--ê huat-jîn	thâu-saⁿ--ê hoat-jîn
+頭三个法人	ㄊㄠˊ ㄙㆩ ㆤ˙ ㄏㄨㄚㆵ ㄌㄧㄣˊ	thâu-sann--ê huat-lîn	thâu-saⁿ--ê hoat-lîn
+頭三个法人	ㄊㄠˊ ㄙㆩ ㆤ˙ ㄏㄨㄚㆵ ㆢㄧㄣˊ	thâu-sann--ê huat-jîn	thâu-saⁿ--ê hoat-jîn
 頭上仔	ㄊㄠˊ ㄐㄧㆫ˫ ㄚˋ	thâu-tsiūnn-á	thâu-chiūⁿ-á
 頭上孫	ㄊㄠˊ ㄐㄧㆫ˫ ㄙㄨㄣ	thâu-tsiūnn-sun	thâu-chiūⁿ-sun
 頭人	ㄊㄠˊ ㄌㄤˊ	thâu-lâng	thâu-lâng
@@ -100157,7 +100155,7 @@
 頭白	ㄊㄠˊ ㄅㆤㆷ̇	thâu-pe̍h	thâu-pe̍h
 頭白布	ㄊㄠˊ ㄅㆤㆷ̇ ㄅㆦ˪	thâu-pe̍h-pòo	thâu-pe̍h-pò͘
 頭的	ㄊㄠˊ ㆤ˙	thâu--ê	thâu--ê
-頭的我愛你	ㄊㄠˊ ㆤ˙ ㆣㄨㄚ˙ ㄞ˙ ㄌㄧ˙	Thâu--ê guá ài--lí	Thâu--ê góa ài--lí
+頭的我愛你	ㄊㄠˊ ㆤ˙ ㆣㄨㄚˋ ㄞ˪ ㄌㄧ˙	Thâu--ê guá ài--lí	Thâu--ê góa ài--lí
 頭皮	ㄊㄠˊ ㄆㄨㆤˊ	thâu-phuê	thâu-phôe
 頭皮	ㄊㄠˊ ㄆㆤˊ	thâu-phê	thâu-phê
 頭盔	ㄊㄠˊ ㄎㄨㆤ	thâu-khue	thâu-khoe
@@ -104678,7 +104676,7 @@
 黏布	ㄌㄧㆰˊ ㄅㆦ˪	liâm-pòo	liâm-pò͘
 黏毛帶	ㄌㄧㆰˊ ㄇㆦ ㄉㄨㄚ˪	liâm-moo-tuà	liâm-mo͘-tòa
 黏水	ㄌㄧㆰˊ ㄗㄨㄧˋ	liâm-tsuí	liâm-chúi
-黏的活栓	ㄌㄧㆰˊ ㆤ˙ ㄨㄚㆷ̇ ㄙㆭ˙	liâm--ê ua̍h-sng	liâm--ê oa̍h-sng
+黏的活栓	ㄌㄧㆰˊ ㆤ˙ ㄨㄚㆷ̇ ㄙㆭ	liâm--ê ua̍h-sng	liâm--ê oa̍h-sng
 黏膜	ㄌㄧㆰˊ ㄇㆦㆷ̇	liâm-mo̍oh	liâm-mo̍͘h
 黏膠	ㄌㄧㆰˊ ㄍㄚ	liâm-ka	liâm-ka
 黏角豆仔	ㄌㄧㆰˊ ㄍㄚㆻ ㄉㄠ˫ ㄚˋ	liâm-kak-tāu-á	liâm-kak-tāu-á
