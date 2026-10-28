@@ -42,7 +42,7 @@ for line in open("phrases-taigi.txt", encoding="utf-8"):
 | `phrases-taigi.txt` | 台語詞庫（詞＋頻次＋方音音節） | **CC BY-SA 4.0**（整體，含台華線頂衍生內容） |
 | `char-taigi.txt` | 單字讀音頻次 | **CC BY-SA 4.0**（同上） |
 | `lexicon-taigi-romanization.txt` | 詞條羅馬字（詞＋方音音節＋臺羅＋白話字）；臺羅為來源辭典**原文逐字保留**，白話字自臺羅轉出 | **CC BY-SA 4.0**（同上） |
-| `emoji-annotations-taigi.txt` | 台語詞 → emoji 對應 | 混合血緣：台語詞取自 iTaigi（**CC0**）、教育部臺灣台語常用詞辭典（**CC BY-ND 3.0 TW**）、公視台語台《台語新詞辭庫》（**CC BY 4.0**）、教育部學科術語對譯查詢（**政府網站資料開放宣告**，CC BY 等價）；emoji 對應衍生自 [rime-emoji](https://github.com/rime/rime-emoji)（**LGPL-3.0**，全文見 `LICENSES/`）；**不含**台華線頂／植物名彙內容，無 BY-SA 約束 |
+| `emoji-annotations-taigi.txt` | 台語詞 → emoji 對應（台語鍵盤完整表：華語表中台語也打得出的詞＋台語寫法不同的詞） | 混合血緣：與華語寫法相同的詞取自 rime-emoji 華語表（台語詞庫只用來篩掉打不出的詞）；台語寫法不同的詞取自 iTaigi（**CC0**）、教育部臺灣台語常用詞辭典（**CC BY-ND 3.0 TW**）、公視台語台《台語新詞辭庫》（**CC BY 4.0**）、教育部學科術語對譯查詢（**政府網站資料開放宣告**，CC BY 等價）；emoji 對應衍生自 [rime-emoji](https://github.com/rime/rime-emoji)（**LGPL-3.0**，全文見 `LICENSES/`）；**不含**台華線頂／植物名彙內容，無 BY-SA 約束 |
 
 `LICENSE` 為 CC BY-SA 4.0 全文，適用於 `phrases-taigi.txt`、`char-taigi.txt` 與 `lexicon-taigi-romanization.txt`。再利用這三檔時請**標示來源**並以**相同授權**釋出你的衍生作品；再利用 emoji 表時請依其血緣分別標示並隨附 `LICENSES/LGPL-3.0.txt`。
 
